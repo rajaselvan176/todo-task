@@ -1,5 +1,5 @@
 # React Todo Task
-Create a Todo App which have All CRUD Functionalities
+Create a Todo App which have All CRUD Functionalities using React.
 
 ➔ Create Todo Task with task name , Description & status
 ➔ By default status needs to added as not completed for created todo
